@@ -1,0 +1,3 @@
+感谢龙ger_longer给的灵感         
+感谢Fitten Code给了技术支持      
+警告：此程序有危险，请用pyQt运行
